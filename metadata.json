@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Escalas GAP",
+  "description": "Uma aplicação para gerenciar escalas do Grupo de Anestesiologistas (GAP), controlar disponibilidade, designar cirurgias e balancear a carga de trabalho.",
+  "requestFramePermissions": []
+}
